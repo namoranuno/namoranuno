@@ -30,10 +30,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![db0stlz-63ae3ff1-b822-492f-8599-47ac9bacc461](https://user-images.githubusercontent.com/78824435/227390603-47764942-34a1-4664-80df-e3c07ac3f417.gif)
-
-
-
 <!--
 **namoranuno/namoranuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
